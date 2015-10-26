@@ -13,6 +13,7 @@ var reverse = function(nums, begin, end) {
         end --;
     }
 }
+
 var nextPermutation = function(nums) {
     var i = 0,
         j = 0,
