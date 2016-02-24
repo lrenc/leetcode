@@ -1,2 +1,2 @@
 # leetcode
-leetcode with cpp and javascript
+leetcode with javascript
