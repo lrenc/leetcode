@@ -24,10 +24,9 @@ var wordPattern = function(pattern, str) {
         map['key_' + key] = item;
         map['item_' + item] = key;
     }
-
     return true;
 };
 
-var pattern = 'abba';
+var pattern = 'baba';
 var str = 'cat dog dog cat';
 console.log(wordPattern(pattern, str));
