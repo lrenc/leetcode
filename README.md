@@ -1,2 +1,2 @@
 # leetcode
-leetcode with javascript
+leetcode with typescript
