@@ -1,3 +1,8 @@
+
+/**
+ * 思路：
+ * 本题关键在于不用考虑要求之外数组的内容
+ */
 function removeDuplicates(nums: number[]): number {
   if (nums.length < 2) {
     return nums.length;
@@ -9,8 +14,6 @@ function removeDuplicates(nums: number[]): number {
       res ++;
     }
   }
-  // console.log(nums)
   return res;
 };
 
-console.log(removeDuplicates([]))
