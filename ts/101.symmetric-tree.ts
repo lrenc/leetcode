@@ -1,4 +1,8 @@
 
+/**
+ * 思路：
+ * 递归对比
+ */
 interface TreeNode {
   val: number,
   left: TreeNode | null,

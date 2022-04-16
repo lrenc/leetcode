@@ -9,3 +9,4 @@ leetcode with typescript
 * 67.add-binary（各种进制数相加）
 * 100.same-tree
 * 101.symmetric-tree
+* 104.maximum-depth-of-binary-tree
